@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 <p>You can reach me at <strong>andre098@hotmail.com</strong> or add me on
 <a href="https://www.linkedin.com/in/andre-boehme-rousselet/"><strong>LinkedIn</strong></a>.</p>
 
-<p>I'm currently learning SQL, in the beginning of the Back-End module at <a href="https://www.betrybe.com/">Trybe</a>.</p>
+<br />
 
+<p>I'm currently learning SQL with <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql-icon" width="30px" heigth="30px"/></a>, in the beginning of the Back-End module at <a href="https://www.betrybe.com/">Trybe</a>.</p>
+
+<br />
 <br />
 
 <p>So far, I have learned and worked the following <em>languages and tools</em>:</p>
