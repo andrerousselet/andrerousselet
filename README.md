@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h2>Hi there 👋</h2>
 
-My name is <em>Andre Boehme Rousselet</em> and I'm a Front-End Developer from Brazil
+My name is <em>Andre Boehme Rousselet</em> and I'm a Front-End Developer from Brazil 🇧🇷
 
 You can reach me at <strong>andre098@hotmail.com</strong> or add me on
 <a href="https://www.linkedin.com/in/andre-boehme-rousselet/">
