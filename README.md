@@ -29,7 +29,7 @@ src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606
 
 <br />
 
-> So far, I have learned and worked the following <strong><em>LANGUAGES & TOOLS</em></strong>:
+> So far, I have learned and worked with the following <strong><em>LANGUAGES & TOOLS</em></strong>:
 
 <div align="left">
   <a href="#">
