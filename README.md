@@ -163,6 +163,6 @@ src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606
 <br/>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrerousselet&show_icons=true&locale=en&layout=compact" alt="andrerousselet" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=andrerousselet&show_icons=true&locale=en" alt="andrerousselet" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrerousselet&show_icons=true&locale=en&layout=compact&theme=react" alt="andrerousselet" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrerousselet&show_icons=true&locale=en&theme=react" alt="andrerousselet" height="150" />
 </div>
