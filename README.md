@@ -93,11 +93,11 @@ src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606
 <h1 align="left">Hi there 👋, I'm Andre Boehme Rousselet</h1>
 <h3 align="left">A frontend developer from Brazil 🇧🇷</h3>
 
-- 🌱 I’m currently learning **Node.js with Express**
+- 🌱 I’m currently learning **TypeScript with Express**
 
-- 💬 Ask me about **react, redux**
+- 💬 Ask me about **react**
 
-- 📫 How to reach me **andre098@hotmail.com**
+- 📫 How to reach me: **andre098@hotmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
