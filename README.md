@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Andre Boehme Rousselet</h1>
 <h3 align="left">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **TypeScript with Express**
+- 🌱 I’m currently learning **POO and SOLID**
 
 - 💬 Ask me about **react**
 
@@ -54,6 +54,12 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
   </a>
 </div>
 
