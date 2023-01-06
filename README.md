@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋, I'm Andre Boehme Rousselet</h1>
 <h3 align="left">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **POO and SOLID**
+- 🌱 I’m currently learning **POO with Python**
 
 - 💬 Ask me about **react**
 
