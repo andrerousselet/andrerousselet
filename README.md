@@ -61,6 +61,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="mocha" width="40" height="40"/>
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
 </div>
 
 <br/>
