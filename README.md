@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working as **IT Support Analyst** at [Ingresse](https://ingresse.com/).
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me: **andre098@hotmail.com** or [LinkedIn](https://www.linkedin.com/in/andrerousselet/).
 
 
